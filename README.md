@@ -1,2 +1,2 @@
-# ServidorMK
+# LatinKings RP
 Servidor de Roleplay
